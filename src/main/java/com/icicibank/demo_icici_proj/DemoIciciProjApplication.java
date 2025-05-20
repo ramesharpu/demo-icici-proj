@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoIciciProjApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoIciciProjApplication.class, args);//from y1 branch
+		SpringApplication.run(DemoIciciProjApplication.class, args);//from x1 branch + from y1 branch
 	}
 	
 	@GetMapping("/")
